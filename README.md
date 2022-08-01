@@ -1,2 +1,2 @@
 # watch-website
-Basic landind-page on html and css
+Basic landing-page on html and css
